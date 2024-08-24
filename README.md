@@ -1,3 +1,4 @@
 # Coffee-Sales-Dashboard
 
-[Coffee Sales Dashboard.pdf](https://github.com/user-attachments/files/16737513/Coffee.Sales.Dashboard.pdf)
+
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/d3e6b998-bccd-4c29-8160-388f1f813902)
